@@ -1,5 +1,5 @@
-#ProjectManage
-###Use for managing disc-team's studying
+# ProjectManage
+### Use for managing disc-team's studying
 
 
 1. Install package for dev
