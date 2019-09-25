@@ -7,9 +7,9 @@ app.get('/api',(req,res)=>{
             {name:'Tony Stark',char:'Iron Man'},
         ]
     )
-})
+});
 app.get('*', (req, res) => {
     
-})
+});
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))

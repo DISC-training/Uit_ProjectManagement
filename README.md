@@ -6,7 +6,7 @@
 ```
 npm run import
 ```
-2. Run serve side(port: 5000) and client side(port:3000)
+2. Run server side(port: 5000) and client side(port:3000)
 ```
-npm run start
+npm start
 ```
